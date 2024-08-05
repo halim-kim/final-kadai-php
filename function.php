@@ -2,12 +2,7 @@
 
 function getDbConnection() {
 
-    // 本番環境↓のみコメントアウト解除
-    // $db = "quiz_app";
-    // $host = "mysql643.db.sakura.ne.jp";
-    // $user = "hatgpt";
-    // $pass = "qwerty123";
-    // $charset = 'utf8mb4';
+ 
 
     //ローカル環境↓のみコメントアウト解除
     $db = "quiz_app";
